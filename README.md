@@ -6,3 +6,4 @@ Test for Git Publisher Job 2
 Testing
 Test after remove webhook on job 2 
 hello
+hi
